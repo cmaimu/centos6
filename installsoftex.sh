@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Install Softether Centos:
-#Link Download:
+#Link Download:https://raw.githubusercontent.com/cmaimu/centos6/master/installsoftex.sh
 
 #link dl aplikasi manager: //www.softether-download.com/en.aspx?product=softether
 #link cara penggunaan: http://vpsmurahmeriah.blogspot.com/2013/10/cara-instal-softether-vpn-server-centos.html
