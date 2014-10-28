@@ -35,6 +35,7 @@ fi
 cd ..
 mv vpnserver /usr/local
 cd /usr/local/vpnserver/
+make
 chmod 600 *
 chmod 700 vpncmd
 chmod 700 vpnserver
